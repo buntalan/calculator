@@ -1,3 +1,3 @@
 # calculator
 Academic project 
-Only added basic buttons, no functionality just yet.
+Project done, quite a few bugs left to fix
