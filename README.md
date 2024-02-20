@@ -1,3 +1,2 @@
-# calculator
-Academic project 
-Project done, quite a few bugs left to fix
+# Calculator
+Project for CS2. Scientific/Programmer calculator with all standard operators and GUI. Outputs may be converted to different bases. 
